@@ -37,4 +37,7 @@ See `review-results.md`
 TBD
 
 ## Team
-- Name: role
+- Name: Fatima Rehman
+- Name: Umna Latif
+- Name: Ayesha Shoaib
+- Name: Avinash Ahuja
