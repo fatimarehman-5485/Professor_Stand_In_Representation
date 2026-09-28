@@ -19,7 +19,7 @@ The stand-in answers only within the professor's rules and escalates anything ou
 
 
 ## Knowledge base
-See `knowledge-sources.md`
+See [`knowledge-sources.md`](knowledge-sources.md), which also references the lecture slides in the [`knowledge/`](knowledge/) folder.
 
 ## Model
 TBD (free / open-weight model, no paid APIs)
