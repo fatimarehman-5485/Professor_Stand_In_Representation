@@ -2,4 +2,4 @@
 
 | Part | Salvaged from | Used for | Photo |
 |---|---|---|---|
-| TBD | TBD | TBD | TBD |
+| Old laptop | Borrowed from a Friend | Brain, screen, and voice for the stand-in | ![laptop](images/laptop-1.jpg)(images/laptop- |
