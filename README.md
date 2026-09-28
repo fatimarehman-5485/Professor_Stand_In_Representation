@@ -25,7 +25,14 @@ See `knowledge-sources.md`
 TBD (free / open-weight model, no paid APIs)
 
 ## Escalation behaviour
-TBD
+
+| Type of question | What the stand-in does | Example |
+|---|---|---|
+| OOP concepts (access modifiers, classes, association, inheritance) | Answers using course material | "What's the difference between aggregation and composition?" |
+| Complete code for graded homework or assignments | Escalates, explains why | "This is graded work. Please see Professor Saleem." |
+| Grade re-evaluation, regrades, retakes | Escalates | "This must be handled in person during office hours (Mon–Fri, 9 AM–5 PM)." |
+| Medical exemption requests | Escalates | "This needs official HOD approval documentation. Please see the professor." |
+| Explanation of exam-specific questions | Escalates | "I can't explain exam content. Please ask Professor Saleem directly." |
 
 ## Parts and provenance
 See `parts-list.md`
