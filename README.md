@@ -34,7 +34,7 @@ The complete ruleset used by the stand-in is implemented in [`Rules.txt`](Rules.
 - Escalation responses explain *why*, not just refuse.
 
 ## Parts and provenance
-See `parts-list.md`
+See [`parts-list.md`](parts-list.md), which links photos from the [`images/`](images/) folder for each salvaged part.
 
 ## Review results and honesty note
 See `review-results.md`
