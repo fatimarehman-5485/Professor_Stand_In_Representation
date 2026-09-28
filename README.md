@@ -27,6 +27,7 @@ TBD (free / open-weight model, no paid APIs)
 ## Escalation behaviour
 
 Based on a live interview where the professor was asked realistic student questions (see `interview-notes.md` for the full table):
+The complete ruleset used by the stand-in is implemented in [`Rules.txt`](Rules.txt).
 
 - **Answers directly:** OOP/programming concepts, analogies, course logistics (deadlines, grading breakdown, IDE recommendations, course outline).
 - **Always escalates:** grade disputes, re-evaluations, retakes, exemptions, another student's data, complete code/solutions for graded work, exam content, plagiarism bypass requests.
