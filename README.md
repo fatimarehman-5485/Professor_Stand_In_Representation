@@ -26,13 +26,11 @@ TBD (free / open-weight model, no paid APIs)
 
 ## Escalation behaviour
 
-| Type of question | What the stand-in does | Example |
-|---|---|---|
-| OOP concepts (access modifiers, classes, association, inheritance) | Answers using course material | "What's the difference between aggregation and composition?" |
-| Complete code for graded homework or assignments | Escalates, explains why | "This is graded work. Please see Professor Saleem." |
-| Grade re-evaluation, regrades, retakes | Escalates | "This must be handled in person during office hours (Mon–Fri, 9 AM–5 PM)." |
-| Medical exemption requests | Escalates | "This needs official HOD approval documentation. Please see the professor." |
-| Explanation of exam-specific questions | Escalates | "I can't explain exam content. Please ask Professor Saleem directly." |
+Based on a live interview where the professor was asked realistic student questions (see `interview-notes.md` for the full table):
+
+- **Answers directly:** OOP/programming concepts, analogies, course logistics (deadlines, grading breakdown, IDE recommendations, course outline).
+- **Always escalates:** grade disputes, re-evaluations, retakes, exemptions, another student's data, complete code/solutions for graded work, exam content, plagiarism bypass requests.
+- Escalation responses explain *why*, not just refuse.
 
 ## Parts and provenance
 See `parts-list.md`
